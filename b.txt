@@ -1,2 +1,1 @@
-Alterando a funcionalidade
-do arquivo txt " b ".
+Alterando a funcionalidade.
