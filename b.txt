@@ -1,0 +1,2 @@
+Alterando a funcionalidade
+do arquivo txt " b ".
